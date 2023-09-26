@@ -14067,7 +14067,7 @@ in
     version = "2.7.3";
     src = fetchurl {
       url = "https://registry.npmjs.org/@elm-tooling/elm-language-server/-/elm-language-server-2.7.3.tgz";
-      sha512 = "sha512-V6X0cqgyc+ZCA2eRA8eU33nNrWmM78uvKhhNUl8OMrdGecA9nOsk1lmoWAhOmyD1ZSbgvvNQiBGnbmziemM6CA==";
+      sha512 = "V6X0cqgyc+ZCA2eRA8eU33nNrWmM78uvKhhNUl8OMrdGecA9nOsk1lmoWAhOmyD1ZSbgvvNQiBGnbmziemM6CA==";
     };
     dependencies = [
       sources."@nodelib/fs.scandir-2.1.5"
