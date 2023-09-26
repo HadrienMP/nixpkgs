@@ -14064,10 +14064,10 @@ in
   "@elm-tooling/elm-language-server" = nodeEnv.buildNodePackage {
     name = "_at_elm-tooling_slash_elm-language-server";
     packageName = "@elm-tooling/elm-language-server";
-    version = "2.7.0";
+    version = "2.7.3";
     src = fetchurl {
-      url = "https://registry.npmjs.org/@elm-tooling/elm-language-server/-/elm-language-server-2.7.0.tgz";
-      sha512 = "EIPf/plACx7GmY4GBxfri4JsYYIqq5whAIpVBtcz9yhE+z5L6RqnH6ZLJkTmA5Z+d74lO6oz5CZ5JZS8tzdb6w==";
+      url = "https://registry.npmjs.org/@elm-tooling/elm-language-server/-/elm-language-server-2.7.3.tgz";
+      sha512 = "sha512-V6X0cqgyc+ZCA2eRA8eU33nNrWmM78uvKhhNUl8OMrdGecA9nOsk1lmoWAhOmyD1ZSbgvvNQiBGnbmziemM6CA==";
     };
     dependencies = [
       sources."@nodelib/fs.scandir-2.1.5"
